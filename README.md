@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Wed Development, Block Chain & AI**
+- 🌱 I’m Interested to learn **Wed Development, Block Chain & AI**
 
 - 👯 I’m looking to collaborate with **Developers, Problem Solver, entrepreneur.**
 
