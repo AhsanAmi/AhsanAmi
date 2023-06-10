@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ahsan-amin-/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahsan-amin-/](https://www.linkedin.com/in/ahsan-amin-/)
+- 📄 Know about my experiences [CheckOut](https://www.linkedin.com/in/ahsan-amin-/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
