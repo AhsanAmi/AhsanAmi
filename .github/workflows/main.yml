@@ -17,7 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
-      - run: |
+        run: |
+          git config user.name Hassaan0509
           git config user.name ahsanami
           git config user.email 2021cs634@student.uet.edu.pk
           git add -A .
